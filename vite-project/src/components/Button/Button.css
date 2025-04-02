@@ -1,0 +1,18 @@
+.button {
+    border: none;
+    padding: 10px 20px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 8px;
+    background-color: #1F2D3D;
+    color: white;
+    cursor: pointer;
+    }
+
+.button-task {
+    border: wheat;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #3b2453;
+    color: rgb(218, 228, 255);
+    cursor: pointer;
+}
